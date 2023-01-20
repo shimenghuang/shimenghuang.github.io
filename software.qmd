@@ -2,3 +2,10 @@
 title: "Software"
 ---
 
+### Python and R packages
+
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("software.bib")
+```
+
+

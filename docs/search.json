@@ -19,5 +19,12 @@
     "title": "Biography",
     "section": "",
     "text": "Personal background\nI was born and raised in Tianjin, China, and my name in Chinese characters is 黄诗萌.\nIn July 2014, I continued my undergraduate study at the University of Waterloo, Canada. After spending some enjoyable years in the Greater Toronto Area (specifically Waterloo, Mississauga, Toronto), I decided to move to Denmark to pursue my PhD degree in September 2021."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Python and R packages\nShimeng Huang Elisabeth Ailer NK, Pfister N (2022). “kernelbiome.” python package available on PyPI.\nHuang S (2021). “rbscCI.” R package available on CRAN.\nHuang S (2020). “flexEL.” R package available on GitHub."
   }
 ]
