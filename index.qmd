@@ -1,0 +1,8 @@
+---
+title: "Shimeng Huang"
+---
+
+Hi, my name is Shimeng Huang. I'm currently a PhD candidate in Statistics 
+at the University of Copenhagen. I'm a member of the 
+[Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
+

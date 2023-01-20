@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Shimeng Huang"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - biography.qmd
+  repo-url: https://github.com/shimenghuang.github.io
+  repo-actions: [edit, issue]
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+
