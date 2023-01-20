@@ -2,3 +2,8 @@
 title: "Biography"
 ---
 
+### Personal background
+
+I was born and raised in [Tianjin](https://goo.gl/maps/Z9mNuf78ABCCQwfu6), China, and my name in Chinese characters is 黄诗萌.
+
+In July 2014, I continued my undergraduate study at the [University of Waterloo](https://uwaterloo.ca/), Canada. After spending some enjoyable years in the Greater Toronto Area (specifically Waterloo, Mississauga, Toronto), I decided to move to Denmark to pursue my PhD degree in September 2021.

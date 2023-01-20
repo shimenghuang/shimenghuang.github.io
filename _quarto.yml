@@ -10,8 +10,12 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - software.qmd
       - biography.qmd
-  repo-url: https://github.com/shimenghuang.github.io
+  search: 
+    location: navbar
+    type: overlay
+  repo-url: https://github.com/shimenghuang/shimenghuang.github.io
   repo-actions: [edit, issue]
 
 format:
