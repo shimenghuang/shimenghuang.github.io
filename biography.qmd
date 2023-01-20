@@ -2,8 +2,22 @@
 title: "Biography"
 ---
 
+### Education
+
+* PhD in Statistics, University of Copenhagen, Denmark, Sep. 2021 -- Aug. 2024 (expected)
+* MMath in Statistics, University of Waterloo, Canada, Sep. 2017 -- Dec. 2018
+* BMath in Computational Mathematics joint Statistics, University of Waterloo, Canada, Sep. 2016 -- June 2017
+* BA in Mathematical Economics, University of Waterloo, Canada, Sep. 2014 -- June 2016
+
+### Work
+
+* Statistical Programmer & Data Scientist, Hoffmann-La Roche, Canada, Jan. 2019 -- June 2021
+
+### Languages
+
+* English
+* Mandarin Chinese
+
 ### Personal background
 
-I was born and raised in [Tianjin](https://goo.gl/maps/Z9mNuf78ABCCQwfu6), China, and my name in Chinese characters is 黄诗萌.
-
-In July 2014, I continued my undergraduate study at the [University of Waterloo](https://uwaterloo.ca/), Canada. After spending some enjoyable years in the Greater Toronto Area (specifically Waterloo, Mississauga, Toronto), I decided to move to Denmark to pursue my PhD degree in September 2021.
+I was born and raised in [Tianjin](https://goo.gl/maps/Z9mNuf78ABCCQwfu6), China, and my name in Chinese characters is 黄诗萌. In September 2012, I moved to Beijing to start my undergraduate study in Economics at [Beijing Jiaotong University](http://en.njtu.edu.cn/). In July 2014, I continued my degree at the [University of Waterloo](https://uwaterloo.ca/), Canada. After spending some enjoyable years there and in the Greater Toronto Area (specifically Mississauga and Toronto) for study and work, I decided to move to Copenhagen, Denmark, to pursue my PhD degree in September 2021.

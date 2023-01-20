@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to enhance the robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing softwares in R and python. 
+My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to achieve robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing software in R and Python. 
 
 ### List of publications and preprints
 

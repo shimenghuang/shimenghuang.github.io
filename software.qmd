@@ -8,4 +8,8 @@ title: "Software"
 bibtex::read.bib("software.bib")
 ```
 
+### Other contributed packages
 
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("software-ctb.bib")
+```
