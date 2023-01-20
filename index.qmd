@@ -19,3 +19,5 @@ Hi, my name is Shimeng Huang. I'm currently a PhD candidate in Statistics
 at the University of Copenhagen under the supervision of [Niklas Pfister](niklaspfister.github.io) and [Jonas Peters](http://web.math.ku.dk/~peters/). I'm a member of the [Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
 
 ### News
+
+* I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.

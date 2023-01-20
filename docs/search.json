@@ -4,14 +4,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to achieve robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing software in R and Python.\n\nList of publications and preprints\nHuang S, Ailer E, Kilbertus N, Pfister N (2022). “Supervised Learning and Model Analysis with Compositional Data.” arXiv preprint arXiv:2205.07271. doi.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi."
+    "text": "My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to achieve robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing software in R and Python.\n\nList of publications and preprints\nHuang S, Ailer E, Kilbertus N, Pfister N (2022). “Supervised Learning and Model Analysis with Compositional Data.” arXiv preprint arXiv:2205.07271. doi.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi.\n\n\nPresentations\nHuang S (2022). “Supervised Learning and Model Analysis with Compositional Data.” Student Travel Award, ICSDS 2022, Florence, Italy (slides)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shimeng Huang",
     "section": "",
-    "text": "Hi, my name is Shimeng Huang. I’m currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of Niklas Pfister and Jonas Peters. I’m a member of the Copenhagen Causality Lab (CoCaLa).\n\nNews"
+    "text": "Hi, my name is Shimeng Huang. I’m currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of Niklas Pfister and Jonas Peters. I’m a member of the Copenhagen Causality Lab (CoCaLa).\n\nNews\n\nI received the Student Travel Award and presented at the ICSDS 2022 in Florence, Italy."
   },
   {
     "objectID": "biography.html",

@@ -10,3 +10,8 @@ My research interests lie in the intersection of statistics and machine learning
 bibtex::read.bib("publication.bib")
 ```
 
+### Presentations
+
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("presentation.bib")
+```
