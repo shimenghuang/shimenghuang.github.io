@@ -7,6 +7,13 @@
     "text": "My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to achieve robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing software in R and Python.\n\nList of publications and preprints\nHuang S, Ailer E, Kilbertus N, Pfister N (2022). “Supervised Learning and Model Analysis with Compositional Data.” arXiv preprint arXiv:2205.07271. doi.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi.\n\n\nPresentations\nHuang S (2022). “Supervised Learning and Model Analysis with Compositional Data.” Student Travel Award, ICSDS 2022, Florence, Italy (slides)."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\nfirstname at math dot ku dot dk\n\n\nAddress\nShimeng Huang  Department of Mathematical Sciences  Universitetsparken 5  2100 Copenhagen O  Denmark"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shimeng Huang",

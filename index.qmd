@@ -3,16 +3,6 @@ title: "Shimeng Huang"
 about:
   template: jolla
   image: img/profile.jpeg
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/s24huang
-    - icon: github
-      text: GitHub
-      href: https://github.com/shimenghuang
-    - icon: linkedin
-      text: LinkedIn
-      href: www.linkedin.com/in/shimenghuang
 ---
 
 Hi, my name is Shimeng Huang. I'm currently a PhD candidate in Statistics 

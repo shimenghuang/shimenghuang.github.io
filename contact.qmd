@@ -1,0 +1,27 @@
+---
+title: "Contact"
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/s24huang
+    - icon: github
+      text: GitHub
+      href: https://github.com/shimenghuang
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/shimenghuang
+---
+
+#### Email 
+
+firstname at math dot ku dot dk
+
+#### Address
+
+Shimeng Huang <br>
+Department of Mathematical Sciences <br>
+Universitetsparken 5 <br>
+2100 Copenhagen O <br>
+Denmark

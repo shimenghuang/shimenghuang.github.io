@@ -12,6 +12,7 @@ website:
       - research.qmd
       - software.qmd
       - biography.qmd
+      - contact.qmd
   search: 
     location: navbar
     type: overlay
