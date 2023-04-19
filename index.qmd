@@ -10,6 +10,5 @@ at the University of Copenhagen under the supervision of [Niklas Pfister](niklas
 
 ### News
 
-* I will give an oral presentation at NORDSTAT 2023 (June 19-22, 2023) in Gothenburg, Sweden.
-
-* I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.
+- I will give an oral presentation at NORDSTAT 2023 (June 19-22) in Gothenburg, Sweden.
+- I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.
