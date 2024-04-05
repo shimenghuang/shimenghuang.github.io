@@ -10,5 +10,8 @@ at the University of Copenhagen under the supervision of [Niklas Pfister](niklas
 
 ### News
 
-- I will give an oral presentation at NORDSTAT 2023 (June 19-22) in Gothenburg, Sweden.
+- I started an internship with Novo Nordisk in Copenhagen, Denmark from Apr. 2024.
+- I did a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.
+- I presented a poster at [EMS 2023](https://ems2023.org/) (June 19-22) in Warsaw, Poland.
+- I gave an oral presentation at [NORDSTAT 2023](https://nordstat2023.org/) (June 19-22) in Gothenburg, Sweden.
 - I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.
