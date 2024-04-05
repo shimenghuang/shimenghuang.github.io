@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests lie in the intersection of statistics and machine learning. I am particularly interested in using causality to achieve robustness and generalizability of statistical models. I care about applications of statistical methodologies in applied science domains such as biology and medical sciences. I enjoy developing software in R and Python.\n\nList of publications and preprints\nHuang S, Peters J, Pfister N (2024). “Causal Change Point Detection and Localization.” arXiv preprint arXiv:2403.12677.\nHuang S, Ailer E, Kilbertus N, Pfister N (2023). “Supervised learning and model analysis with compositional data.” PLOS Computational Biology, 19(6), e1011240.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi.\n\n\nPresentations\nHuang S (2022). “Supervised Learning and Model Analysis with Compositional Data.” Student Travel Award, ICSDS 2022, Florence, Italy (slides).\nHuang S (2023). “Causal change point detection and localization.” EMS 2023, Warsaw, Poland (slides)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email\nfirstname at math dot ku dot dk\n\n\nAddress\nShimeng Huang  Department of Mathematical Sciences  Universitetsparken 5  2100 Copenhagen O  Denmark"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shimeng Huang",
+    "section": "",
+    "text": "Hi, my name is Shimeng Huang. I’m currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of Niklas Pfister and Jonas Peters. I’m a member of the Copenhagen Causality Lab (CoCaLa).\n\nNews\n\nI started an internship with Novo Nordisk in Copenhagen, Denmark from Apr. 2024.\nI did a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.\nI presented a poster at EMS 2023 (June 19-22) in Warsaw, Poland.\nI gave an oral presentation at NORDSTAT 2023 (June 19-22) in Gothenburg, Sweden.\nI received the Student Travel Award and presented at the ICSDS 2022 in Florence, Italy."
+  },
+  {
+    "objectID": "biography.html",
+    "href": "biography.html",
+    "title": "Biography",
+    "section": "",
+    "text": "Education\n\nPhD in Statistics, University of Copenhagen, Denmark, Sep. 2021 – Aug. 2024 (expected)\nMMath in Statistics, University of Waterloo, Canada, Sep. 2017 – Dec. 2018\nBMath in Computational Mathematics joint Statistics, University of Waterloo, Canada, Sep. 2016 – June 2017\nBA in Mathematical Economics, University of Waterloo, Canada, Sep. 2014 – June 2016\n\n\n\nWork\n\nStatistical Programmer & Data Scientist, Hoffmann-La Roche, Canada, Jan. 2019 – June 2021\n\n\n\nLanguages\n\nEnglish\nMandarin Chinese\n\n\n\nPersonal background\nI was born and raised in Tianjin, China, and my name in Chinese characters is 黄诗萌. In September 2012, I moved to Beijing to start my undergraduate study in Economics at Beijing Jiaotong University. In July 2014, I continued my degree at the University of Waterloo, Canada. After spending some enjoyable years there and in the Greater Toronto Area (specifically Mississauga and Toronto) for study and work, I decided to move to Copenhagen, Denmark, to pursue my PhD degree in September 2021."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Python and R packages\nHuang S, Ailer E, Pfister N, Kilbertus N (2022). “kernelbiome.” Python package available on PyPI.\nHuang S (2021). “rbscCI.” R package available on CRAN.\nHuang S, Lysy M (2020). “flexEL.” R package available on GitHub.\n\n\nOther contributed packages\nNeitmann T, Bundfuss S, Straub B, Kabi S, Miller G, Akinyi T, Smith A, Koukourikou K, Farrugia R, Simms E, Yang A, Koeger R, Shapcott S, Upadhyay O, McGavigan J, Duniec K, G G, Harris A, About M, Kumari P, Carlucci C, Stefonishin D, Mascary S, Zhu Z, Dickinson J, Golab A, Thorpe M, Hodges D, Abercrombie J, Ramirez N, Kumar P, Rahal H, Omnes Y, Ehmann A, Ratford T, Thanikachalam V, Slama O, Huang S, Kim J, Lee S, Denney B, Mubasheer S, Liu W, Kulkarni D, Walkowiak F, Senior T, Morrish J, Howard A, O’Reilly B, Kirkpatrick J, Black J, Khatri L, AG FHR, LLC G (2022). “admiral.” R package available on CRAN."
+  }
+]
