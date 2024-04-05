@@ -1,12 +1,19 @@
 ---
 title: "Shimeng Huang"
 about:
+  id: short-intro
   template: jolla
   image: img/profile.jpeg
 ---
 
-Hi, my name is Shimeng Huang. I'm currently a PhD candidate in Statistics 
-at the University of Copenhagen under the supervision of [Niklas Pfister](niklaspfister.github.io) and [Jonas Peters](http://web.math.ku.dk/~peters/). I'm a member of the [Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
+### 
+
+::: {#short-intro}
+
+:::
+
+Hi, my name is Shimeng. I'm currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of [Niklas Pfister](niklaspfister.github.io) and [Jonas Peters](http://web.math.ku.dk/~peters/). I'm a member of the [Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
+
 
 ### News
 
@@ -15,3 +22,4 @@ at the University of Copenhagen under the supervision of [Niklas Pfister](niklas
 - I presented a poster at [EMS 2023](https://ems2023.org/) (June 19-22) in Warsaw, Poland.
 - I gave an oral presentation at [NORDSTAT 2023](https://nordstat2023.org/) (June 19-22) in Gothenburg, Sweden.
 - I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.
+
