@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+### List of publications and preprints
+
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("publication.bib")
+```
+
+### Presentations
+
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("presentation.bib")
+```

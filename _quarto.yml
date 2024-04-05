@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
+      - publication.qmd
       - software.qmd
       - biography.qmd
       - contact.qmd

@@ -4,14 +4,16 @@ title: "Biography"
 
 ### Education
 
-* PhD in Statistics, University of Copenhagen, Denmark, Sep. 2021 -- Aug. 2024 (expected)
+* PhD in Statistics, University of Copenhagen, Denmark, Sep. 2021 -- Present
 * MMath in Statistics, University of Waterloo, Canada, Sep. 2017 -- Dec. 2018
 * BMath in Computational Mathematics joint Statistics, University of Waterloo, Canada, Sep. 2016 -- June 2017
 * BA in Mathematical Economics, University of Waterloo, Canada, Sep. 2014 -- June 2016
 
 ### Work
 
-* Statistical Programmer & Data Scientist, Hoffmann-La Roche, Canada, Jan. 2019 -- June 2021
+* Consultant (intern), Novo Nordisk, Copenhagen, Denmark, Apr. 2024 -- Present
+* Data Scientist (intern), Google France, Paris, France, Sep. 2023 -- Nov. 2023
+* Statistical Programmer & Data Scientist, Hoffmann-La Roche, Mississauga, ON, Canada, Jan. 2019 -- Jun. 2021
 
 ### Languages
 
