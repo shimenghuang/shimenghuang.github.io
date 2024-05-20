@@ -11,7 +11,7 @@ about:
       href: https://github.com/shimenghuang
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/shimenghuang
+      href: https://www.linkedin.com/in/shimenghuang
 ---
 
 #### Email 

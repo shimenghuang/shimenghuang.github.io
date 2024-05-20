@@ -17,7 +17,7 @@ Hi, my name is Shimeng. I'm currently a PhD candidate in Statistics at the Unive
 
 ### News
 
-- I started an internship with Novo Nordisk in Copenhagen, Denmark from Apr. 2024.
+- I started a research internship with Novo Nordisk in Copenhagen, Denmark from Apr. 2024.
 - I did a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.
 - I presented a poster at [EMS 2023](https://ems2023.org/) (June 19-22) in Warsaw, Poland.
 - I gave an oral presentation at [NORDSTAT 2023](https://nordstat2023.org/) (June 19-22) in Gothenburg, Sweden.
