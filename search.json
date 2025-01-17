@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Shimeng Huang",
     "section": "",
-    "text": "Hi, my name is Shimeng. I’m currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of Niklas Pfister and Jonas Peters. I’m a member of the Copenhagen Causality Lab (CoCaLa).\n\n\nNews\n\nI did a research internship at Novo Nordisk (Apr.-Aug. 2024) in Copenhagen, Denmark.\nI did a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.\nI presented a poster at EMS 2023 (June 19-22) in Warsaw, Poland.\nI gave an oral presentation at NORDSTAT 2023 (June 19-22) in Gothenburg, Sweden.\nI received the Student Travel Award and presented at the ICSDS 2022 in Florence, Italy."
+    "text": "Hi, my name is Shimeng. I’m currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of Niklas Pfister and Jonas Peters. I’m a member of the Copenhagen Causality Lab (CoCaLa).\n\n\nNews\n\n🎉 I’ll join as a postdoc at the Institute of Science and Technology Austria (ISTA) working with Francesco Locatello and Matthew Robinson in Feb. 2025!\n📙 I submitted my PhD thesis in Dec. 2024 and it is now publicly available!\n🧬 I completed a research internship at Novo Nordisk (Apr.-Aug. 2024) in Copenhagen, Denmark.\n💡 I finished a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France."
   },
   {
     "objectID": "biography.html",
@@ -32,6 +32,6 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Python and R packages\nHuang S, Kook L (2024). “pycomets.” Python package available on GitHub.\nHuang S, Ailer E, Pfister N, Kilbertus N (2022). “kernelbiome.” Python package available on PyPI.\nHuang S, Winstein K (2021). “rbscCI.” R package available on CRAN.\nHuang S, Lysy M (2020). “flexEL.” R package available on GitHub.\n\n\nOther contributed packages\nNeitmann T, Bundfuss S, Straub B, Kabi S, Miller G, Akinyi T, Smith A, Koukourikou K, Farrugia R, Simms E, Yang A, Koeger R, Shapcott S, Upadhyay O, McGavigan J, Duniec K, G G, Harris A, About M, Kumari P, Carlucci C, Stefonishin D, Mascary S, Zhu Z, Dickinson J, Golab A, Thorpe M, Hodges D, Abercrombie J, Ramirez N, Kumar P, Rahal H, Omnes Y, Ehmann A, Ratford T, Thanikachalam V, Slama O, Huang S, Kim J, Lee S, Denney B, Mubasheer S, Liu W, Kulkarni D, Walkowiak F, Senior T, Morrish J, Howard A, O’Reilly B, Kirkpatrick J, Black J, Khatri L, AG FHR, LLC G (2022). “admiral.” R package available on CRAN."
+    "text": "Python and R packages\nHuang S, Kook L (2024). “pycomets.” Python package available on GitHub.\nHuang S, Ailer E, Pfister N, Kilbertus N (2022). “kernelbiome.” Python package available on PyPI.\nHuang S, Winstein K (2021). “rbscCI.” R package available on CRAN.\nHuang S, Lysy M (2020). “flexEL.” R package available on GitHub.\n\n\nOther contributed packages\nStraub B, Bundfuss S, Dickinson J, Farrugia R, Gautier F, Gayatri G, Chakma A, Kulkarni D, Mancini E, Mascary S, Miller G, Patil L, Shapcott S, Simms E, Sjoberg D, Thoma S, Webster P, Zhang K, Zhu Z, F. Hoffmann-La Roche AG, GlaxoSmithKline LLC (2024). “admiral.” R package available on CRAN."
   }
 ]
