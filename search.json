@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "List of publications and preprints\nHuang S, Pfister N, Bowden J (2024). “Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding.” arXiv preprint arXiv:2410.12300. doi.\nHuang S, Peters J, Pfister N (2024). “Causal Change Point Detection and Localization.” arXiv preprint arXiv:2403.12677. doi.\nHuang S, Ailer E, Kilbertus N, Pfister N (2023). “Supervised learning and model analysis with compositional data.” PLOS Computational Biology, 19(6), e1011240. doi.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi.\n\n\nPresentations\nHuang S (2022). “Supervised Learning and Model Analysis with Compositional Data.” Student Travel Award, ICSDS 2022, Florence, Italy (slides).\nHuang S (2023). “Causal change point detection and localization.” EMS 2023, Warsaw, Poland (slides).\n\n\nReviews\nI have reviewed at: \n\nThe Journal of Machine Learning Research (JMLR)\nAISTATS 2023"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email\nfirstname at math dot ku dot dk\n\n\nAddress\nShimeng Huang  Department of Mathematical Sciences  Universitetsparken 5  2100 Copenhagen O  Denmark"
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publications",
-    "section": "",
-    "text": "List of publications and preprints\nHuang S, Pfister N, Bowden J (2024). “Sparse Causal Effect Estimation using Two-Sample Summary Statistics in the Presence of Unmeasured Confounding.” arXiv preprint arXiv:2410.12300. doi.\nHuang S, Peters J, Pfister N (2024). “Causal Change Point Detection and Localization.” arXiv preprint arXiv:2403.12677. doi.\nHuang S, Ailer E, Kilbertus N, Pfister N (2023). “Supervised learning and model analysis with compositional data.” PLOS Computational Biology, 19(6), e1011240. doi.\nHuang S, Wolkowicz H (2018). “Low-rank matrix completion using nuclear norm minimization and facial reduction.” Journal of Global Optimization, 72(1), 5-26. doi.\nEl Khatib A, Huang S, Ghodsi A, Karray F (2018). “Nonnegative matrix factorization using autoencoders and exponentiated gradient descent.” In 2018 International Joint Conference on Neural Networks (IJCNN), 1-8. IEEE. doi.\n\n\nPresentations\nHuang S (2022). “Supervised Learning and Model Analysis with Compositional Data.” Student Travel Award, ICSDS 2022, Florence, Italy (slides).\nHuang S (2023). “Causal change point detection and localization.” EMS 2023, Warsaw, Poland (slides)."
+    "text": "Email\nfirstname dot lastname at ista dot ac dot at\n\n\nAddress\nShimeng Huang  Institute of Science and Technology Austria  Am Campus 1  3400 Klosterneuburg  Austria"
   },
   {
     "objectID": "index.html",
