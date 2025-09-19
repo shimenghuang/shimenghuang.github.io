@@ -4,6 +4,7 @@ about:
   id: short-intro
   template: jolla
   image: img/profile.jpeg
+from: markdown+emoji
 ---
 
 ### 
@@ -12,14 +13,25 @@ about:
 
 :::
 
-Hi, my name is Shimeng. I'm currently a PhD candidate in Statistics at the University of Copenhagen under the supervision of [Niklas Pfister](niklaspfister.github.io) and [Jonas Peters](http://web.math.ku.dk/~peters/). I'm a member of the [Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
+Hi, my name is Shimeng. I'm a postdoctoral fellow at the [Institute of Science
+and Technology Austria](https://ista.ac.at/en/home/) (ISTA) working with
+[Francesco Locatello](https://www.francescolocatello.com) (Causal Learning and
+Artificial Intelligence, CLAI) and [Matthew
+Robinson](https://research-explorer.ista.ac.at/person/E5D42276-F5DA-11E9-8E24-6303E6697425)
+(Medical Genomics). I obtained my PhD in Statistics from the [University of
+Copenhagen](https://www.ku.dk/en) under the supervision of [Niklas
+Pfister](https://niklaspfister.github.io) and [Jonas
+Peters](https://people.math.ethz.ch/~jopeters/) where I was a member of the
+[Copenhagen Causality Lab](https://cocala.github.io/) (CoCaLa).
 
 
 ### News
 
-- I started a research internship with Novo Nordisk in Copenhagen, Denmark from Apr. 2024.
-- I did a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.
-- I presented a poster at [EMS 2023](https://ems2023.org/) (June 19-22) in Warsaw, Poland.
+- :tada: I successfully defended my PhD on Feb. 7, 2025! 
+- :orange_book: I submitted my PhD thesis on Dec. 8, 2024 and it is now [publicly available](https://noter.math.ku.dk/phd25sh.pdf)! 
+- :dna: I completed a research internship at Novo Nordisk (Apr.-Aug. 2024) in Copenhagen, Denmark.
+- :bulb: I finished a data scientist internship with Google France (Sep.-Nov. 2023) in Paris, France.
+<!-- - I presented a poster at [EMS 2023](https://ems2023.org/) (June 19-22) in Warsaw, Poland.
 - I gave an oral presentation at [NORDSTAT 2023](https://nordstat2023.org/) (June 19-22) in Gothenburg, Sweden.
-- I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy.
+- I received the Student Travel Award and presented at the [ICSDS 2022](https://sites.google.com/view/icsds2022) in Florence, Italy. -->
 

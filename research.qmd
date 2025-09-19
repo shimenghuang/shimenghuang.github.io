@@ -1,0 +1,79 @@
+---
+title: "Research"
+---
+
+```{r echo=FALSE}
+
+#' Format as abbrv in latex
+format_abbrv <- function(entry) {
+  authors <- vapply(entry$author, function(a) {
+    # Names ending with * are equal contribution
+    if (grepl("\\*$", a$given)) {
+        paste0(a$family, " ", substr(a$given, 1, 1), ".\\*")
+    } else {
+        paste0(a$family, " ", substr(a$given, 1, 1), ".")
+    }
+  }, character(1))
+  
+  authors_str <- paste(authors, collapse = ", ")
+  title <- entry$title
+  journal <- entry$journal
+  year <- entry$year
+  note <- entry$note
+  booktitle <- entry$booktitle
+  pages <- entry$pages
+  organization <- entry$organization
+
+  if (length(journal) == 0) {
+    # talks
+    paste0(authors_str, ' (', year, '). "', title, '". ', note, '.\n')
+  }
+  else if (length(booktitle) == 0) {
+    # journal articles
+    paste0(authors_str, ' (', year, '). "', title, '". *', journal, '*. ', note, '.\n')
+  } else {
+    # proceedings
+    paste0(authors_str, ' (', year, '). "', title, '". In *', booktitle, '*, ', pages, '. ', organization, '. ', note, '.\n')
+  }
+}
+
+```
+
+### List of publications and preprints
+
+<small>(*Equal contribution)</small>
+
+```{r echo=FALSE, results='asis'}
+bib <- RefManageR::ReadBib("publication.bib")
+formatted_entries <- sapply(bib, format_abbrv)
+cat(paste(formatted_entries, collapse = "\n"))
+```
+
+### Presentations
+
+```{r echo=FALSE, results='asis'}
+bib <- RefManageR::ReadBib("presentation.bib")
+formatted_entries <- sapply(bib, format_abbrv)
+cat(paste(formatted_entries, collapse = "\n"))
+```
+
+### Reviews
+
+I have reviewed at:
+<img height="120px" style="float:right" src="img/I_review_JMLR.gif">
+
+- The Journal of Machine Learning Research (JMLR)
+- Transactions on Machine Learning Research (TMLR)
+- NeurIPS 2025 Workshops (UniReps and CauScien)
+- AISTATS 2023
+
+### Theses
+
+```{r echo=FALSE, results='asis'}
+bib <- RefManageR::ReadBib("theses.bib")
+formatted_entries <- sapply(bib, format_abbrv)
+cat(paste(formatted_entries, collapse = "\n"))
+```
+
+
+

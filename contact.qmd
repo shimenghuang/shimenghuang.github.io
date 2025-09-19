@@ -3,25 +3,29 @@ title: "Contact"
 about:
   template: marquee
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/s24huang
     - icon: github
       text: GitHub
       href: https://github.com/shimenghuang
+    - text: "{{< iconify academicons google-scholar size=lg >}} Scholar"
+      href: https://scholar.google.com/citations?user=e5SybJkAAAAJ&hl=en
+    - text: "{{< iconify academicons orcid size=lg >}} ORCID"
+      href: https://orcid.org/0000-0001-6919-821X
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/shimenghuang
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/s24huang
 ---
 
 #### Email 
 
-firstname at math dot ku dot dk
+firstname dot lastname at ista dot ac dot at
 
 #### Address
 
 Shimeng Huang <br>
-Department of Mathematical Sciences <br>
-Universitetsparken 5 <br>
-2100 Copenhagen O <br>
-Denmark
+Institute of Science and Technology Austria <br>
+Am Campus 1 <br>
+3400 Klosterneuburg <br>
+Austria
