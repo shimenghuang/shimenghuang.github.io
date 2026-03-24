@@ -22,9 +22,9 @@ format_abbrv <- function(entry) {
   note <- entry$note
   booktitle <- entry$booktitle
   pages <- entry$pages
-  organization <- entry$organization
+  publisher <- entry$publisher
 
-  if (length(journal) == 0) {
+  if ((length(journal) == 0) & (length(booktitle) == 0)) {
     # talks
     paste0(authors_str, ' (', year, '). "', title, '". ', note, '.\n')
   }
@@ -33,7 +33,7 @@ format_abbrv <- function(entry) {
     paste0(authors_str, ' (', year, '). "', title, '". *', journal, '*. ', note, '.\n')
   } else {
     # proceedings
-    paste0(authors_str, ' (', year, '). "', title, '". In *', booktitle, '*, ', pages, '. ', organization, '. ', note, '.\n')
+    paste0(authors_str, ' (', year, '). "', title, '". In *', booktitle, '*, ', pages, '. ', publisher, '. ', note, '.\n')
   }
 }
 
