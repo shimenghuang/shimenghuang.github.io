@@ -11,7 +11,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "Python and R packages\nHuang S, Kook L (2024). “pycomets.” Python package available on GitHub.\nHuang S, Ailer E, Pfister N, Kilbertus N (2022). “kernelbiome.” Python package available on PyPI.\nHuang S, Winstein K (2021). “rbscCI.” R package available on CRAN.\nHuang S, Lysy M (2020). “flexEL.” R package available on GitHub.\n\n\nOther contributed packages\nStraub B, Bundfuss S, Dickinson J, Farrugia R, Gautier F, Gayatri G, Chakma A, Kulkarni D, Mancini E, Mascary S, Miller G, Patil L, Shapcott S, Simms E, Sjoberg D, Thoma S, Webster P, Zhang K, Zhu Z, F. Hoffmann-La Roche AG, GlaxoSmithKline LLC (2024). “admiral.” R package available on CRAN."
+    "text": "Python and R packages\nHuang S (2025). “arxiv-scout.” Tool available on GitHub.\nHuang S, Kook L (2024). “pycomets.” Python package available on GitHub.\nHuang S, Ailer E, Pfister N, Kilbertus N (2022). “kernelbiome.” Python package available on PyPI.\nHuang S, Winstein K (2021). “rbscCI.” R package available on CRAN.\nHuang S, Lysy M (2020). “flexEL.” R package available on GitHub.\n\n\nOther contributed packages\nStraub B, Bundfuss S, Dickinson J, Farrugia R, Gautier F, Gayatri G, Chakma A, Kulkarni D, Mancini E, Mascary S, Miller G, Patil L, Shapcott S, Simms E, Sjoberg D, Thoma S, Webster P, Zhang K, Zhu Z, F. Hoffmann-La Roche AG, GlaxoSmithKline LLC (2024). “admiral.” R package available on CRAN."
   },
   {
     "objectID": "research.html",
