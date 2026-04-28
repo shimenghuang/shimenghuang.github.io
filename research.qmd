@@ -62,10 +62,11 @@ cat(paste(formatted_entries, collapse = "\n"))
 I have reviewed at:
 <img height="120px" style="float:right" src="img/I_review_JMLR.gif">
 
-- The Journal of Machine Learning Research (JMLR)
-- Transactions on Machine Learning Research (TMLR)
+- ICML 2026
 - NeurIPS 2025 Workshops (UniReps and CauScien)
 - AISTATS 2023
+- The Journal of Machine Learning Research (JMLR)
+- Transactions on Machine Learning Research (TMLR)
 
 ### Theses
 
