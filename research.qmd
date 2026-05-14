@@ -28,10 +28,17 @@ format_abbrv <- function(entry) {
     # talks
     paste0(authors_str, ' (', year, '). "', title, '". ', note, '.\n')
   }
-  else if (length(booktitle) == 0) {
-    # journal articles
-    paste0(authors_str, ' (', year, '). "', title, '". *', journal, '*. ', note, '.\n')
-  } else {
+  else if ((length(journal) != 0) & (length(booktitle) == 0)) {
+    if (journal == "NA") {
+      # does not have arxiv preprint
+      paste0(authors_str, title, '. ', note, '.\n')
+    }
+    else {
+      # journal articles
+      paste0(authors_str, ' (', year, '). "', title, '". *', journal, '*. ', note, '.\n')
+    }    
+  } 
+  else {
     # proceedings
     paste0(authors_str, ' (', year, '). "', title, '". In *', booktitle, '*, ', pages, '. ', publisher, '. ', note, '.\n')
   }
